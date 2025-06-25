@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-**KatanaIcedOut-FHDW/KatanaIcedOut-FHDW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**KatanaIcedOut-FHDW/KatanaIcedOut-FHDW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. (- True xD
 
 Here are some ideas to get you started:
 
