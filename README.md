@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **KatanaIcedOut-FHDW/KatanaIcedOut-FHDW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about Things
 - 📫 How to reach me: u dont
 - ⚡ Fun fact: Fun fact
--->
+--> :)
